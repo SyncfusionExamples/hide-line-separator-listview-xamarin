@@ -4,6 +4,10 @@ The Xamarin.Forms [SfListView](https://help.syncfusion.com/xamarin/listview/over
 
 You can hide the separator for any item in a group by changing the [IsVisible](https://docs.microsoft.com/en-us/dotnet/api/xamarin.forms.visualelement.isvisible) property of the **StackLayout** (Used as a Separator) loaded in the [SfListView.ItemTemplate](https://help.syncfusion.com/cr/cref_files/xamarin/Syncfusion.SfListView.XForms~Syncfusion.ListView.XForms.SfListView~ItemTemplate.html).
 
+You can also refer the following article.
+
+https://www.syncfusion.com/kb/11707/how-to-hide-the-line-separator-in-xamarin-forms-listview-with-grouping-sflistview
+
 **XAML**
 
 Converter bind to **Separator** to hide it based on the requirement.
